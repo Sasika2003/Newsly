@@ -34,4 +34,3 @@ A modern Android news aggregation app that brings you the latest news from multi
 4. Enjoy staying informed!                            
 
 ![image](https://github.com/user-attachments/assets/d615028a-e3ef-4344-8fbe-b0b1322aea50)
-![image](https://github.com/user-attachments/assets/d615028a-e3ef-4344-8fbe-b0b1322aea50)
