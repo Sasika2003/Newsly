@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Newsly</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+</resources>
