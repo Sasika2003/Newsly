@@ -9,14 +9,17 @@ A modern Android news aggregation app that brings you the latest news from multi
   - Technology (The Verge)              
   - Business (BBC Business)                            
   - Entertainment (Billboard)                             
-  - World News (BBC World)                                   
-                            
+  - World News (BBC World)                                                      
 - **Unified Feed**: View all news from different sources in a single "All" category                               
 - **Real-time Updates**: Refresh button to get the latest news instantly                           
 - **External Links**: Tap any article to read the full story in your browser                             
 - **Easy Sharing**: Share interesting articles with friends via any app                          
 - **Clean UI**: Modern Material Design with intuitive category navigation                 
-                             
+- **Smart Search**: Search across article titles and descriptions with real-time filtering                          
+- **Bookmark System**: Save articles for later reading with persistent storage                                 
+- **Dark Mode Support**: Switch between Light, Dark, and System themes                            
+- **Pull-to-Refresh**: Swipe down to refresh news feeds
+-                                                                                           
 ## 🛠️ Technical Stack                            
                            
 - **Language**: Kotlin                               
@@ -33,4 +36,7 @@ A modern Android news aggregation app that brings you the latest news from multi
 3. Build and run on your Android device or emulator                   
 4. Enjoy staying informed!                            
 
-![image](https://github.com/user-attachments/assets/d615028a-e3ef-4344-8fbe-b0b1322aea50)
+![WhatsApp Image 2025-06-28 at 10 55 14 PM](https://github.com/user-attachments/assets/cbc3f407-6e9d-4ebd-85f6-0a48e363e895)
+![WhatsApp Image 2025-06-28 at 10 55 14 PM (1)](https://github.com/user-attachments/assets/e6f82c8b-93d7-447c-895a-8b40b5d449dd)
+
+
